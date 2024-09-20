@@ -1,0 +1,7 @@
+*.azcli
+venv
+qdrant_data
+.env
+__pycache__
+tmp
+.vscode
