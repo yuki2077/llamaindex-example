@@ -37,7 +37,7 @@
 3. **コンテナに入り、起動**
 
    ```sh
-   docker-compose exec app bash
+   docker-compose exec web bash
    python app/main.py
    ```
 
